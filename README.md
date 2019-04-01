@@ -68,7 +68,7 @@
 		+ [5.6.1 add_header设置](#5.6.1add_header设置)
 	+ [5.7 防盗链设置](#5.7防盗链设置)
 		+ [5.7.1 http_referer设置](#5.7.1http_referer设置)
-6. [Nginx 代理服务配置](./06-nginx代理配置/ 的代理配置.md)
+6. [Nginx 代理服务配置](./06-nginx代理配置/nginx的代理配置.md)
 	+ [6.1 代理类型](#6.1代理类型)
 	+ [6.2 Nginx反向代理配置](#6.2Nginx反向代理配置)
 	+ [6.3 Nginx正向代理 ](#6.3Nginx正向代理 )
